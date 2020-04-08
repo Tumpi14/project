@@ -1,0 +1,43 @@
+<html>
+<head>
+<meta charset="utf-8">
+<title>Untitled Document</title>
+</head>
+
+<body background="C:\Users\tumpi\OneDrive\Desktop\slide01.jpg" link="#D7D7D7">
+	<h1><b><font color="#F9F7F7" size="+6">T</font><font color="#F9F7F7">HE&nbsp;&nbsp;&nbsp;</font><font color="#F9F7F7" size="+6">L</font><font color="#F9F7F7">EISURE&nbsp;&nbsp;&nbsp;</font><font color="#F9F7F7" size="+6">I</font><font color="#F9F7F7"> NN</font></b></h1>
+	<p><font color="#C04F6B" size="+3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It's Good Mood Food
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A Perfect Blend Of Continental Cuisine</font></p> <br>
+<table border="1" align="center">
+	<tr><td><a href=" https://www.leisureinnwestgurgaon.in/hotel/">HOME</a></td>
+	<td><a href="https://www.leisureinnwestgurgaon.in/hotel/">ABOUT US</a></td>
+	<td><a href=" http://thetable.in/menu.php">MENU</a></td>
+	<td><a href=" https://www.leisureinnwestgurgaon.in/gallery/
+">GALLERY</a></td>
+	<td><a href="https://youtu.be/DQniWOTizpA">HEALTHY TIPS</a></td>
+		<td><a href="  https://www.leisureinnwestgurgaon.in/contact/">CONTACT US</a></td></tr>
+	<tr>
+		<td colspan="3"><i><font color="#DCC8C8" size="+2">WELCOME TO OUR RESTAURANT</font></i></td>
+		<td colspan="2"><u><font color="#B8171A" size="+3">Dish of the Day
+			<br></font></u><font color="#A68D25" size="+2">TACHOS AND NACHOS</font></td>
+	<td><img src="close-view-chicken-nacho-tortilla-260nw-1030355497.heic"></td></tr>
+	<tr>
+		<td colspan="3"><FONT color="#F9F5F6" SIZE="+3">OUR SPECIALITIES</font>
+
+		<ul type="disc"><font color="#F3EEEE">
+			<li>Litti Chokha</li>
+			<li>Sheer Korma</li>
+			<li>Biryani</li><li>Red Sauce Pasta</li>
+			<li>Choux pastry</li>
+			</ul></font></td>
+		<td colspan="3"><font color="#F3EEEE" size="+3">SPECIAL OFFERS
+			<BR><ul type="square">
+				<li>50% off on Wednesdays</li>
+				<li>20% off on Citi Bank credit cards</li></ul>
+			</FONT></td></tr>
+	<tr><td colspan="6"><font color="#E02A2D" size="+2"><center><a href="https://docs.google.com/forms/d/1xhFGHdUzOMOdaCXYI-zLT9jFdU4gzjvv2Af6IPBe4to/edit
+
+">FEEDBACK</a></center></font></td></tr>
+	</table>
+</body>
+</html>
